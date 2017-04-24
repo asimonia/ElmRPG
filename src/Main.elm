@@ -51,7 +51,7 @@ subscriptions model =
 -- MAIN
 
 
-main : Program NEver Model Msg
+main : Program Never Model Msg
 main =
     program
         { init = init
