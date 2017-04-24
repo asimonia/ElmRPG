@@ -1,0 +1,11 @@
+{
+  "name": "ElmRPG",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:asimonia/ElmRPG.git",
+  "author": "Alex Simonian <alex.simonian@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.9.6"
+  }
+}
